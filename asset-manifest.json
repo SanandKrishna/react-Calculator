@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SanandKrishna/react-calculator/static/css/main.385a1e6b.css",
+    "main.js": "/SanandKrishna/react-calculator/static/js/main.0f0f9f12.js",
+    "static/js/787.ec704a7a.chunk.js": "/SanandKrishna/react-calculator/static/js/787.ec704a7a.chunk.js",
+    "index.html": "/SanandKrishna/react-calculator/index.html",
+    "main.385a1e6b.css.map": "/SanandKrishna/react-calculator/static/css/main.385a1e6b.css.map",
+    "main.0f0f9f12.js.map": "/SanandKrishna/react-calculator/static/js/main.0f0f9f12.js.map",
+    "787.ec704a7a.chunk.js.map": "/SanandKrishna/react-calculator/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.385a1e6b.css",
+    "static/js/main.0f0f9f12.js"
+  ]
+}
