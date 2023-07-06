@@ -40,7 +40,7 @@ const Buttons = ({
         ⌫
       </button>
       <button className="btn exp" onClick={InputHandler}>
-        log
+        Ln
       </button>
       <button className="btn exp" onClick={InputHandler}>
         ÷
