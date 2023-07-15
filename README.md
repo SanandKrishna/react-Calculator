@@ -15,4 +15,3 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 #  Project React App Calulator 
-# SanandKrishna76.github.i.o
